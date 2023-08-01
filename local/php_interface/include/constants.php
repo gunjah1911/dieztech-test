@@ -1,0 +1,3 @@
+<?php
+const IBLOCK_CATALOG = 1;
+const IBLOCK_SLIDER_HOMEPAGE = 2;
